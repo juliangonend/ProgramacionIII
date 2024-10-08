@@ -1,0 +1,9 @@
+link git hub : 
+TP1 HTML:https://github.com/juliangonend/ProgramacionIII.git
+TP2 CSS: https://github.com/juliangonend/Prog3_CSS.git
+TP3 JS: https://github.com/juliangonend/TpJsJulianGonzalez.git
+TP4 TYPE:https://github.com/juliangonend/TpTypeScriptulianGonzalez.git
+TPINTEGRADOR: https://github.com/juliangonend/TrabajoIntegradorJulianGonzalez.git
+VIDEO INTEGRADOR : https://drive.google.com/drive/folders/1LETJhZlEEb2OFoRKj0yZnG4dsZOExTIL?usp=sharing
+tp react: https://github.com/juliangonend/introduccionReact.git
+tp HeroesApp: https://github.com/juliangonend/HeroesApp.git

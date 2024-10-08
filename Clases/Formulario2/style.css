@@ -1,0 +1,83 @@
+html{
+    width: 100vw;
+    height: 100vh;
+}
+:root{
+    --blue:rgb(5, 74, 145);
+    --lightblue:rgb(129, 164, 205);
+    --white: aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+body{
+    background: var(--lightblue);
+
+}
+
+
+  
+nav{
+    background-color: var(--white);
+    width: 100vw;
+    height: 7vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+.form-card{
+    width: 80vw;
+    height: 60vh;
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    border-radius: 30px;
+
+}
+.form-img {
+    overflow: hidden;
+}
+.form-img img{
+
+    width: 100%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: var(--blue);
+    height: 100%;
+    padding: 0 5rem;
+
+}
+form h3{
+    font-size: 50px;
+
+}
+form input{
+    height: 6vh;
+    border: 1px solid blue ;
+    border-radius: 30px;
+    text-align: center;
+    width: 20vw;
+}
+form input[type="submit"]{
+    width: 15vw;
+}
+form input[type="submit"]:hover{
+    background-color: rgba(0, 0, 0, 0.377) ;
+     color: var(--white);
+}

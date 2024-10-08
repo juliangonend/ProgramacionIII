@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.contenedor{
+    width: 500px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+    overflow: hidden;
+}
+
+.cubo{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+}
